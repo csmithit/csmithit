@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Smitty
-- 👀 I’m interested in C++
+- 👋 Hi, I’m Cody Smith
+- 👀 I’m interested in C++,Python,JavaScript,and more!
 - 🌱 I’m currently learning ASIO C++ library
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... anything.
+- 📫 You can reach me by email.
 
 <!---
 csmithit/csmithit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
