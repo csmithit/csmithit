@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cody Smith
-- 👀 I’m interested in C++,Python,JavaScript,and more!
-- 🌱 I’m currently learning ASIO C++ library
+- 👀 I’m interested in C++,Python,JavaScript,IT Security and more!
+- 🌱 I’m currently learning ASIO and wxWidgets C++ libraries.
 - 💞️ I’m looking to collaborate on ... anything.
 - 📫 You can reach me by email.
 
