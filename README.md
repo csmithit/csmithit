@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Cody Smith
-- 👀 I’m interested in C++,Python,JavaScript,IT Security and more!
-- 🌱 I’m currently learning ASIO and wxWidgets C++ libraries.
-- 💞️ I’m looking to collaborate on ... anything.
+- 👋 Hi, I’m Cody Smith, aspiring developer and career IT engineer.
+- 👀 I’m interested in C++,Python,JavaScript,IT Security,Virtualization and more!
+- 🌱 I’m currently learning ASIO (cross-platform networking) and wxWidgets (cross-platform GUI) C++ libraries.
+- 💞️ I’m looking to collaborate on just about any interesting projects.
 - 📫 You can reach me by email.
 
 <!---
